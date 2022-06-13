@@ -1,0 +1,20 @@
+{
+  "description": "A scene in the short film by Thịnh Nguyễn named Illustration for Live Klassiskt",
+  "external_url": "https://thinh-nguyen.com",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbdycMzDAtYm2whFD8tqDbueSYNnaXmxfgwBghn2ePaCN",
+  "name": "Illustration for Live Klassisk",
+  "attributes": [
+    {
+      "trait_type": "Closet",
+      "value": "Starfish"
+    },
+    {
+      "trait_type": "Persons",
+      "value": 3
+    },
+    {
+      "trait_type": "Culture",
+      "value": "Asian"
+    }
+  ]
+}
